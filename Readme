@@ -1,0 +1,5 @@
+Typescript :
+npm install -g tsc
+tsc
+npx tsc
+npx tsc cal.ts        -> to generate js file of TS so that you can actually compile js code. 
