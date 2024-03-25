@@ -1,5 +1,8 @@
 Typescript :
 npm install -g tsc
 tsc
-npx tsc
-npx tsc cal.ts        -> to generate js file of TS so that you can actually compile js code. 
+npm install -g typescript --force      ->  command to overwrite existing files.
+npx tsc                                -> gives you all the commnads that you can perform.
+npx tsc cal.ts                         -> to generate js file of TS so that you can actually compile js code. 
+
+tsc --init            ->Creates a tsconfig.json with the recommended settings in the working directory.
