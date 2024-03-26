@@ -6,3 +6,5 @@ npx tsc                                -> gives you all the commnads that you ca
 npx tsc cal.ts                         -> to generate js file of TS so that you can actually compile js code. 
 
 tsc --init            ->Creates a tsconfig.json with the recommended settings in the working directory.
+
+interface is nothing but when you are creating an object it is diffficult to define  what kind of data will be stored inside that object. So we globally declare the types initially. 
