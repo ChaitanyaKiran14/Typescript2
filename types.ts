@@ -9,4 +9,4 @@ function greett(person : PersonInterface){
 console.log(greett({
     name: "Chaitanya",
     age : 23
-}))
+})) 
